@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void DivisibleBy5and3(int Arr[], int iLength)
+void DivisibleBy11(int Arr[], int iLength)
 {
     int iCnt = 0;
 
@@ -45,7 +45,7 @@ int main()
         scanf("%d", &p[iCnt]);
     }
 
-    DivisibleBy5and3(p, iSize);
+    DivisibleBy11(p, iSize);
 
     free(p);
     return 0;
