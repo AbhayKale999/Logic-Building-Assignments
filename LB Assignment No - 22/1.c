@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////
 //
 //  File name :     1.c
-//  Description :   Problems on dynamic memory allocation
+//  Description :   Problems on Strings
 //  Author :        Abhay Suresh Kale
 //  Date :          26/06/2025
 //
